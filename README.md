@@ -1,4 +1,4 @@
-# KNN-Diabites-prediction
+# KNN-Diabetes-prediction
 
 The datasets consist of several medical predictor (independent) variables and one target
 (dependent) variable, Outcome.
